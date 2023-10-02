@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to Felix' GitHub Profile!
+
+👋 Hi there! I'm Felix, a developer and tech enthusiast. Welcome to my GitHub repository profile, where I share my projects and contribute to the open-source community.
 
 <!--
 **fritzschefelix/fritzschefelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+I'm a master's student in Computer Science currently Studying at the Universidad de La Laguna.
+
+## 🚀 GitHub Stats
+
+![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=fritzschefelix&show_icons=true&theme=radical)
